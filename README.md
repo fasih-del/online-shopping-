@@ -1,0 +1,1 @@
+his Online Shopping Website is a simple e-commerce webpage built using HTML, CSS, and JavaScript. It displays a list of products with prices and allows users to add items to a shopping cart. The cart updates dynamically, showing selected products and the total price. This project serves as a basic template for an online store with essential shopping functionality. 🚀🛍️
